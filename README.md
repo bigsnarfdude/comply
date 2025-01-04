@@ -1,6 +1,7 @@
 # comply
 
-This tool analyzes canadian aviation operations manuals and automatically matches their content with relevant sections of the Canadian Aviation Regulations (CARs). It uses Google's Gemini Caching AI models to extract meaningful statements from manuals and identify corresponding regulatory requirements.
+This tool analyzes canadian aviation operations manuals and automatically matches their content with relevant sections of the Canadian Aviation Regulations
+SOR/96-433. It uses Google's Gemini Caching AI models to extract meaningful statements from manuals and identify corresponding regulatory requirements.
 
 ## Features
 
